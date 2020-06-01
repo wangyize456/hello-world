@@ -1,2 +1,2 @@
 # hello-world
-tutorial to use GitHub
+print('hello world')
